@@ -1,12 +1,12 @@
 ![Mobile-Flutter: Flutter CI](capa.png)
 
-# Flutter: Integração Contínua
+# Flutter: Entrega contínua
 
-Projeto Sorteador de amigo secreto para o curso Flutter CI. Ajuste inicial
+Projeto Sorteador de amigo secreto para o curso Flutter CD.
 
 ### Tópicos abordados no curso:
 
-- Integração contínua;
+- Entrega contínua;
 - Pipelines;
 
 Este curso é indicado para pessoas que já tem conhecimento intermediário e querem aprofundar seu conhecimento em Flutter, elevando a qualidade da suas entregas, reduzindo a quantidade de bugs e garantido uma melhor escrita de código.
