@@ -2,7 +2,7 @@
 
 # Flutter: Integração Contínua
 
-Projeto Sorteador de amigo secreto para o curso Flutter CI.
+Projeto Sorteador de amigo secreto para o curso Flutter CI. Ajuste inicial
 
 ### Tópicos abordados no curso:
 
