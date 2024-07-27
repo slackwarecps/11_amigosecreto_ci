@@ -20,9 +20,10 @@ class _DrawPageState extends State<DrawPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      
       backgroundColor: AppColors.primary,
       appBar: AppBar(
-        title: const Text('CI/CD'),
+        title: const Text('CI/CD - Secret Friend'),
       ),
       body: SingleChildScrollView(
         child: Stack(
