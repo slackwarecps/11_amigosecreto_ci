@@ -1,4 +1,4 @@
-package com.example.secrete_friend_drawer
+package br.com.fabioalvaro.secrete_friend_drawer
 
 import io.flutter.embedding.android.FlutterActivity
 
